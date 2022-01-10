@@ -1,7 +1,5 @@
 # Métodos Estadísticos Bayesianos
 
-## Cambio para ejemplo
-
 En este repositorio encontrarás las notas para el curso de Métodos Estadísticos Bayesianos. Material adicional será proporcionado durante clases.
 
 `Módulo 1.` **Teorema de Bayes e inferencia Bayesiana**
